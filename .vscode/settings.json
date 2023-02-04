@@ -1,0 +1,6 @@
+{
+  "yaml.schemas": {
+    "kubernetes": "*.yaml",
+    "https://json.schemastore.org/github-action.json": "file:///home/pedro/codes/courses/full-cycle/ci/.github/workflows/ci.yaml"
+  }
+}
